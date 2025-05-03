@@ -1,5 +1,3 @@
-# hitting-confidence-guide
-Baseball hitting confidence development program
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -652,6 +650,11 @@ Baseball hitting confidence development program
             <div class="final-message">
                 Confidence is a choice you make before the at-bat even begins.<br>
                 The next pitch is your chance. Own it.
+            </div>
+        </div>
+    </div>
+</body>
+</html>
             </div>
         </div>
     </div>
